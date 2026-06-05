@@ -5,3 +5,9 @@
 [submodule "CHNOSZ"]
 	path = CHNOSZ
 	url = https://github.com/jedick/CHNOSZ
+[submodule "canprot"]
+	path = canprot
+	url = https://github.com/jedick/canprot
+[submodule "chem16S"]
+	path = chem16S
+	url = https://github.com/jedick/chem16S
