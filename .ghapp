@@ -1,0 +1,10 @@
+{
+  "id": 138125399,
+  "created_at": "2026-06-05T04:32:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["canprot", "CHNOSZ", "JMDplots", "logKcalc", "chem16S"]
+}
