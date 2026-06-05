@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jedick/jedick.r-universe.dev
 	branch = HEAD
-[submodule "canprot"]
-	path = canprot
-	url = https://github.com/jedick/canprot
-[submodule "chem16S"]
-	path = chem16S
-	url = https://github.com/jedick/chem16s
+[submodule "CHNOSZ"]
+	path = CHNOSZ
+	url = https://github.com/jedick/CHNOSZ
